@@ -18,3 +18,4 @@ def Pattern(line):
 line = 7
 print(Pattern(line)) 
 
+print(Pattern(line)) 
